@@ -1,0 +1,30 @@
+.navbar {
+    width: 20%;
+    background-color: gray;
+    min-height: 300px;
+}
+
+
+
+
+
+
+.item_list {
+    list-style: none;
+}
+
+a {
+    color: black;
+    font-weight: bold;
+}
+a.active {
+    color: red;
+    background-color: yellow;
+}
+
+
+
+
+
+
+

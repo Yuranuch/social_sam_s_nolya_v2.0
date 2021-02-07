@@ -1,0 +1,25 @@
+.user {
+    display: flex;
+    margin-bottom: 10px;
+    align-items: center;
+    border: 1px solid black;
+}
+.avatar {
+    margin-right: 10px;
+    height: 100px;
+    width: 100px;
+}
+.name {
+    margin-right: 30px;
+    font-weight: bold;
+}
+.location {
+    margin-right: 10px;
+}
+.location span {
+    padding-right: 5px;
+    text-decoration: underline;
+}
+.avatar img{
+    height: 100px;
+}
